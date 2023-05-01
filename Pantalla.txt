@@ -1,0 +1,3 @@
+Celular 480
+Tablet 991
+Laptop 1281
